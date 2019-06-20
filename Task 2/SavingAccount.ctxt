@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SavingAccount
+comment0.text=\r\n\ Class\ SavingAccount.\r\n\ This\ class\ inherit\ methods\ from\ Account\ info\ and\ work\ according\ to\ SavingAccount\ description.\r\n\ \r\n\ @author\ Rabia\ Nazir\r\n\ \r\n\ @version\ 1.0\r\n\ \r\n\ 23\ December\ 2018\r\n
+comment1.params=customerName\ accountNumber\ accountBalance
+comment1.target=SavingAccount(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\ \r\n\ Constructor\ method\ to\ set\ customer\ name,\ account\ number\ \r\n\ and\ account\ balance\r\n
+comment2.params=amount
+comment2.target=void\ depositMoney(double)
+comment2.text=\ \r\n\ Method\ to\ deposit\ money\r\n
+comment3.params=amount
+comment3.target=boolean\ withdrawMoney(double)
+comment3.text=\ \r\n\ Method\ to\ withdraw\ money\r\n
+comment4.params=
+comment4.target=double\ getAccountBalance()
+comment4.text=\ \r\n\ Method\ to\ Check\ User\ current\ account\ balance\r\n
+comment5.params=interestRate
+comment5.target=void\ addInterest(double)
+comment5.text=\r\nMethod\ to\ calculate\ the\ interest\ on\ a\ saving\ account.\r\n
+numComments=6

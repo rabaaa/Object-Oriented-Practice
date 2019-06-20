@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestBankingSystem
+comment0.text=\r\n\ Class\ TestBankingSystem.\r\n\ This\ class\ is\ used\ to\ call\ BankingSystem.\r\n\ \r\n\ @author\ Rabia\ Nazir\r\n\ \r\n\ @version\ 1.0\r\n\ \r\n\ 23\ December\ 2018\r\n
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PublicationInterface
+comment0.text=\r\n\ Publication\ Interface\ Class\ for\ all\ library\ publications.\r\n\ \r\n\ \r\n\ @author\ Rabia\ Nazir\r\n\ \r\n\ @version\ 1.0\r\n\ \r\n\ 18\ December\ 2018\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPublisher()
+comment1.text=\r\n\ Get\ publisher's\ name\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getPublicationTitle()
+comment2.text=\r\n\ Get\ publication's\ title\r\n\ \r\n
+comment3.params=
+comment3.target=float\ getPrice()
+comment3.text=\r\n\ Get\ a\ publication's\ price\r\n\ \r\n
+comment4.params=publisherIn\ publicationTitleIn\ priceIn
+comment4.target=void\ setPublication(java.lang.String,\ java.lang.String,\ float)
+comment4.text=\r\n\ Set\ the\ publication's\ details.\r\n\ \r\n\ @param\ publisherIn\ \ \ The\ Publisher's\ name\ (as\ a\ String)\r\n\ @param\ titleIn\ \ \ \ \ \ \ The\ Publication's\ Title\ (as\ a\ String)\r\n\ @param\ priceIn\ \ \ \ \ \ \ The\ Publication's\ Price\ (as\ a\ float)\r\n
+numComments=5
